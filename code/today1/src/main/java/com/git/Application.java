@@ -6,7 +6,7 @@ public class Application {
 
 	}
 
-	public String ConCat(String a, String b) {
+	public String ConCat(String a,String b) {
 		return a + b;
 	}
 
